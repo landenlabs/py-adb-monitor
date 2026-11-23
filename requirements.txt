@@ -1,0 +1,2 @@
+PyQt6
+# make-icons.py (dev only, regenerates icon.ico/icon.icns) also needs: Pillow
